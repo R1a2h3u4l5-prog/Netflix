@@ -1,7 +1,7 @@
 # Netflix
 performed analysis and created a netflix dashboard to check the increased genre from the time period of 1990 till 2022
 
-analyzed the data on the basis of : 
+# analyzed the data on the basis of : 
 1. Total Movies and TV shows by years
 2. Top 10 Genre
 3. Total Movies and TV shows by country
